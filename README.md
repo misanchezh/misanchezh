@@ -4,7 +4,7 @@
 
 ### Glad to see you here!
 
-I'm Robotic Process Automation developer **@ NTT DATA**
+I'm a Robotic Process Automation developer **@ NTT DATA**
 
 ### More about me:
 
