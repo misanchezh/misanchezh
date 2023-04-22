@@ -1,10 +1,10 @@
-## Hi there👋, my name is [Miguel a.k.a D4ST](https://twitter.com/D4ST__/)
+## Hi there👋, my name is [Miguel a.k.a dast](https://twitter.com/dastchwen/)
 
-[<img alt="ProtonMail" src="https://img.shields.io/badge/protonmail-red?style=for-the-badge&logo=protonmail&logoColor=white" />](mailto:msanchezh@pm.me)  [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/miguelsanchezh/)  [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/d4st__/)
+[<img alt="ProtonMail" src="https://img.shields.io/badge/protonmail-red?style=for-the-badge&logo=protonmail&logoColor=white" />](mailto:msanchezh@pm.me)  [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/miguelsanchezh/)  [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dastchwen/)
 
 ### Glad to see you here!
 
-I'm a Robotic Process Automation developer **@ NTT DATA**
+I'm a Robotic Process Automation developer **@ **
 
 ### More about me:
 
